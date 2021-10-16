@@ -49,10 +49,10 @@ To get started, you should have prior knowledge on **Python** and **Tensorflow**
 
 ## Results
 - Results of `spelling_correction_v1`:
-<img src="https://github.com/phkhanhtrinh23/results/output_2.png">
+<img src="https://github.com/phkhanhtrinh23/spelling_correction/blob/main/results/output_2.png">
 
 - Results of `spelling_correction_v2`:
-<img src="https://github.com/phkhanhtrinh23/results/result_4.png">
+<img src="https://github.com/phkhanhtrinh23/spelling_correction/blob/main/results/result_4.png">
 
 
 ## Contribution
