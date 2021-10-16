@@ -6,7 +6,7 @@
 
 ### Introduction
 
-My project is called **Spelling Correction**. This is a model which helps a person correct a sentence which contains spelling mistakes.
+My project is called **Spelling Correction**. This is a model which helps a person correct a sentence with spelling mistakes.
 
 
 ### Built With
