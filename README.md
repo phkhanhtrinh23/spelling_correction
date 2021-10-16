@@ -42,9 +42,9 @@ To get started, you should have prior knowledge on **Python** and **Tensorflow**
 - Input: [`fra.txt`](http://www.manythings.org/anki/) a French-English Dictionary.
 
 - Output:
-1. `spelling_correction_v1` is the first version of my work. The model is based on **Encoder-Decoder** and both Encoder and Decoder are **Bi-directional LSTM**. It is fast in training and inference but the performance was extremely bad with long sentences.
+1. `spelling_correction_v1` is the first version of my work. The model is based on **Encoder-Decoder** model and both the Encoder and Decoder are **Bi-directional LSTM**. It is fast in training and inference but the performance is extremely bad with long sentences.
 
-2. `spelling_correction_v2` is the second version of my work. The model is based on **Bi-directional Encoder-Decoder** as before but it is upgraded with **Bahdanau Attention**, which considerably improves the performance of model on long and complex sentences with errors.
+2. `spelling_correction_v2` is the second version of my work. The model is based on **Bi-directional Encoder-Decoder** model as before but it is upgraded with **Bahdanau Attention** layer, which considerably improves the performance of model on long and complex sentences with errors.
 
 
 ## Results
