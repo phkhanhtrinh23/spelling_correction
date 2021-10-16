@@ -20,7 +20,7 @@ My application is built with these frameworks and tools:
 
 ## Getting Started
 
-To get started, you should have prior knowledge on **Python** and **Tensorflow** at first. A few resources to get you started if this is your first Flutter project:
+To get started, you should have prior knowledge on **Python** and **Tensorflow** at first. A few resources to get you started if this is your first Python or Tensorflow project:
 
 - [Tensorflow: Guide](https://www.tensorflow.org/guide)
 - [Python for Beginners](https://www.python.org/about/gettingstarted/)
